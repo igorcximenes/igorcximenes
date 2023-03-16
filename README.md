@@ -1,10 +1,10 @@
 ### Me chamo Igor e seja Bem vindo(a) ao meu GitHub!
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
-- 🔥 Focando meus estudos em Css e Lógica de programação com JS e C#.
-- 🔭 Atualmente faço estágio como suporte de t.i
-- 📫 Tenho interesses em tecnologias como typescrypt, react.js, angular.js e vue.js
-- ⚡ Um fato sobre mim... larguei farmácia no último período para ir atrás do que realmente faz sentido para mim
+-  Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
+-  Focando meus estudos em Css e Lógica de programação com JS e C#.
+-  Atualmente faço estágio como suporte de t.i
+-  Tenho interesses em tecnologias como typescrypt, react.js, angular.js e vue.js
+-  Um fato sobre mim... larguei farmácia no último período para ir atrás do que realmente faz sentido para mim
 
 <div style="display: inline_block"><br>
   
